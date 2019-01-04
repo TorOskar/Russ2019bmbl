@@ -1,0 +1,34 @@
+Det er kaldt over 99 nå
+Umbrella, Rihanna
+Key: Bbm
+Time: 4/4
+Tempo: 88
+
+Chorus:
+| [F#]  | [C#]	  |
+| [G#]  | [Bbm]   |
+| [F#]  | [C#]    |
+| [G#]  | [Bbm]   |
+
+| [F#]  | [C#/G#] | (ella, ella, eh, eh, eh.)
+| [Fm]  | [Bbm]   | (ella, ella, eh, eh, eh.)
+| [F#]  | [C#/G#] | (ella, ella, eh, eh, eh.)
+| [Fm]  | [Bbm]   | (ella, ella, eh, eh, eh.)
+
+Verse:
+| [F#maj7] |   [C#/G#]  |
+| [Fm]     |   [Bbm]	|
+| [F#maj7] |   [C#/G#]  |
+| [Fm]     |   [Bbm]	|
+
+
+Middle Eight:
+| [B]  | [F#]  |
+| [C#] | [C#]  |
+| [B]  | [F#]  |
+| [F]  | [F]   |
+
+Outro:
+| [F#maj7] |   [C#/G#]  |
+| [Fm] 	|   [Bbm]	|
+(repeat)

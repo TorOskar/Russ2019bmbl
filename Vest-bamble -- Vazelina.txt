@@ -1,0 +1,30 @@
+Vest-bamble
+Traktor med henger, Vazelina
+Key: E
+Time: 4/4
+Tempo: 160
+
+Intro:
+(high E sash to start)
+|[E] . . . | . . . . | . . . . | . . . . |
+
+Chorus:
+(babababab, bam, bam, da da da da)
+|[E] . . . | . . . . | . . . .  | . . . . |
+|[A] . . . | . . . . |[E] . . . | . . . . |
+|[A] . . . | . . . . |[E] . . . | . . . . |
+|[B] . . . |[B] . . .| [C] . [B] . |[E] . . . | . x x x |
+
+Verse:
+|[E] . . . |[C#m] . . . |[E] . . . | [C#m] . . . |
+|[E] . . . |[C#m] . . . |[E] . . . | [C#m] . . . |
+
+|[A] . . . |[F#m] . . . |[A] . . . | [F] . . . |
+|[E] . . . |[C#m] . . . |[E] . . . | [C#m] . . . |
+
+(oppgang)
+|[B] . . . |[B] . . . | [B] . . . | [B] . . . |
+(oppgang)
+|[B] . . . |[B] . . . | [B] . . . | [B] x x x  | (E sash)
+
+[B][Bsus4][C#7][C#7sus] (oppgang)
