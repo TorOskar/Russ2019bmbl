@@ -4,45 +4,31 @@ Key: C
 Time: 4/4
 Tempo: 126
 
-(Keys in)
-
 Verse:
-[F/A] [Bb]       [C][Dm]
-I know a place
-          [F/A]               [Bb]    [C][Dm]
-Where the grass is really greener
-[F/A] [Bb]         [C][Dm]
-Warm, wet and wild
-              [F/A]              [Bb]    [C][Dm]
-There must be something in the water
-[F/A]    [Bb]            C Dm
-Sipping gin and juice
-       [F/A]               [Bb]     [C][Dm]
-Laying underneath the palm trees
-    [F/A] [Bb]                C Dm
-The boys break their necks
-          [F/A]          [Bb]          [C][Dm]
-Trying to creep a little sneak peek
+|[F/A],,(2oh)[Bb],,, |,,(2)[C](oh)[Dm],,,,|
 
 Pre-Chorus:
-[C]                  [Dm]
-You could travel the world
-    [Bb]
-But nothing comes close to the golden coast
-[C]                  [Dm] 
-Once you party with us
-         [Bb]
-You’ll be falling in love oh Ohohohohoh
+| [C] | [Dm] | [Bb] | [Bb] |
+| [C] | [Dm] | [Bb] | [Bb] |
 
 Chorus:
-[F/A] [Bb]            [C]     [Dm] 
-California girls, we’re unforgettable
-[F/A]  [Bb]          [C]     [Dm] 
-Daisy Dukes, bikinis on top
-[F/A]       [Bb]            [C]             [Dm] 
-Sun-kissed skin, so hot will melt your popsicle
-[F/A]  [Bb]  [C] [Dm] 
-Ohohohohoh,  
+(funk guitar)
+|[F/A],,(2oh)[Bb],,, |,,(2)[C](oh)[Dm],,,,|
+|[F/A],,(2oh)[Bb],,, |,,(2)[C](oh)[Dm],,,,|
+|[F/A],,(2oh)[Bb],,, |,,(2)[C](oh)[Dm],,,,|
+|[F/A],,(2oh)[Bb],,, |,,(2)[C](oh)[Dm],,,,|
 
+&red:R U S S
+Verse:
+(7x)
 
-(SNOOP DOGG comes in - play the same chord progression as the previous VERSES)
+Ref:
+(3x)
+(stopp)
+
+Verse:
+(3x)
+
+Ref:
+(4x)
+(stopp)

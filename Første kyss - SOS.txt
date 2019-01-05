@@ -4,16 +4,40 @@ Key: Dm
 Time: 4/4
 Tempo: 120
 
+&red:R U S S
+Intro piano
+V piano
+Ref
+V piano
+Ref
+PIANO del
+Ref 
+Vamp ... gitar fills
+
+
+Chorus:
+[F]           [C]       [Gm]              [Bb]       [F]/[Fsus4]/[F]/[Fsus4]
+So when you're near me, darling can't you hear me, SOS
+[F]           [C]       [Gm]             [Bb]       [F]/[Fsus4]/[F]/[Fsus4]
+The love you gave me, nothing less can save me, SOS
+
+(distorted)
+
+[Bb]                     [Db]   [Eb]       [F]
+When you're gone, how can I even try to go on ?
+[Bb]                      [Db]        [Eb]     [F]
+When you're gone, though I try how can I carry on ?
+
+
+
+
+
 
 Intro:
 [Dm]
 |[Dm] . [Bb/D] . | [Dm] . |
 |[Dm] [Dm] [C/D] | [Bb/D]  [Bb/D] [Am/D] | [Gm/D] . |
 |[Dm] [Bb/D] | 
-
-
-
-
 
 
 Verse 1:

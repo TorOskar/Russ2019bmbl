@@ -4,6 +4,52 @@ Key: Cm
 Time: 4/4
 Tempo: 95
 
+
+Hook:
+| ..,[Bb][Cm][Cm] |
+(1 o 2 o 3 x x x)
+
+Verse:
+|[Cm] . . . |[G/B] . . . |[D#] . . . |[Fm] . [G] . |
+|[Cm] . . . |[G/B] . . . |[D#] . . . |[Fm] . [G] . |
+
+Pre-Chorus:
+|[Cm] . . . |[G/B] . . . |[D#] . . . |[Fm] . [G] . |
+
+Chorus:
+|[Cm] . . . |[G/B] . . .       |[D#] . . . |[Fm] . [G] . |
+|[Cm] . . . |[G/B] . [G#] [A#] |[D#] . . . |[Fm] . [G] x |
+(riff, stop)
+
+&red:R U S S
+
+Verse:
+
+Ref:
+(stop 1 x x x)
+
+Verse:
+
+Ref:
+
+(stop 1 2 x x)
+
+Verse:
+
+Ref:
+
+(stop 1 2 3 x)
+
+Ref:
+
+(stop 1 2 3 4)
+
+
+
+
+
+
+
 Intro/Riff:
 |,[Bb] [Cm][Cm] . . |
 (,^vv)
