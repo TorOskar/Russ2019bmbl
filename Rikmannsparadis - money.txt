@@ -1,40 +1,66 @@
 Rikmannsparadis
 Moneymoneymoney, ABBA
-Key: Am
+Key: Fm
 Time: 4/4
 Tempo: 122
 
+&red: flow!!
 
 Intro:
 
-[Am]  [F7]  [Dm]  [Eaug]  [Am]
+|[Fm] | [Db7] | [Bbm] [Eaug] | [Fm] |
 
 
 Verse:
- [Am]
-I work all night, I work all day 
-  [E7/G#]                   [E7]          [Am]
-to pay the bills I have to pay, ain't it sad. 
-   [Am]
-And still there never seems to be 
- [E7/G#]                [E7]            [Am]
-a single penny left for me, that's too bad. 
-                         [Am/G][Bb/F] [F]               [F/E]
-In my dreams I have a plan,     if I got me a wealthy man 
- [Dm]                              [B7/D#]                  [E7]
-I wouldn't have to work at all, I'd fool around and have a ball. 
+|[Fm] . . .  |[C7/E] . . . |[C7] . . . |[Fm] . . . |
+|[Fm] . . .  |[C7/E] . . . |[C7] . . . |[Fm] . . . |
+|[Fm] . . .  | . . . [Eb]  |[Db] . . . | . . . [C] |
+|[Bbm] . . . |[G7/B] . . . |[C7] . . . |
 
+---------------
+---------------
+-5-6-3-5-1-3-0-
+---------------
+---------------
+---------------
 
 Chorus:
+|[Fm] . . . |[G7] . . . |[C7] . [Caug] . |[Fm] . . . |
+|[Fm] . . . |[G7] . . . |[C7] . [Caug] . |[Fm] . . . |
+|[Bbm] . . .|[C7] . . . |[F7] . . . |[Bbm] . [Db7][C7] |
+|[Fm] . . . |[Bbm] . [Caug] . | [Fm] . . . |[Db7] . . . |
+|[Bbm] . [Caug] . |[Fm] . . . | 
 
-[Am]                [B7]            [E7]     [Eaug]      [Am]
-Money, money, money,   must be funny   in the rich man's world. 
-                    [B7]           [E7]     [Eaug]      [Am]
-Money, money, money,   always sunny   in the rich man's world. 
-  [Dm]  [E7][A7]                      [Dm]
-A ha, a ha.    All the things I could do 
-[F7][E][Am]                [Dm]     [Eaug]      [Am]  [F7]
-if I had a little money,   it's a rich man's world. 
-[Dm]    [Eaug]      [Am] 
-  It's a rich man's world.
 
+Transpose: 1
+
+Verse:
+|[Fm] . . .  |[C7/E] . . . |[C7] . . . |[Fm] . . . |
+|[Fm] . . .  |[C7/E] . . . |[C7] . . . |[Fm] . . . |
+|[Fm] . . .  | . . . [Eb]  |[Db] . . . | . . . [C] |
+|[Bbm] . . . |[G7/B] . . . |[C7] . . . |
+
+Chorus:
+|[Fm] . . . |[G7] . . . |[C7] . [Caug] . |[Fm] . . . |
+|[Fm] . . . |[G7] . . . |[C7] . [Caug] . |[Fm] . . . |
+|[Bbm] . . .|[C7] . . . |[F7] . . . |[Bbm] . [Db7][C7] |
+|[Fm] . . . |[Bbm] . [Caug] . | [Fm] . . . |[Db7] . . . |
+|[Bbm] . [Caug] . |[Fm] . . . | 
+
+
+
+1  
+0
+0
+0
+2
+X
+G7/B
+
+x
+10
+11
+10
+9
+x
+C7/E

@@ -3,9 +3,23 @@ Gatebarna TIX, Boujee
 Time: 4/4
 Tempo: 126
 
+
+Vampe 8 takter på Cm
+Stop
+Vampe på progresjon
+
 Verse:
 [Cm]
 
 Chorus:
 [G#]  [Bb]  [Gm]  [Cm]
-[G#]  [Bb]  [Gm]  
+[G#]  [Bb]  [Gm]
+
+(funk vamp Cm ...)
+
+--8-------------7-------  
+--8----8/s10----8-------  
+--10---8/s10----8-------  
+----------------7-------  
+------------------------  
+------------------------  

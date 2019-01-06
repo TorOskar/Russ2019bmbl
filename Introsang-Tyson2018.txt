@@ -1,41 +1,38 @@
 Introsang
 Tyson 2018
-Key: E
+Key: G
 Time: 4/4
 Tempo: 185
 
-Intro:
-(half timeish)
+(fly lyd)
+(musikk kaoss ... band in lyder i D)
+(piano starter sang)
+
+V1, full time:
+|[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
+|[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
 |[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
 |[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
 
-Verse:
-(band, reggea)
+Ref, half time, reggae:
 |[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
 |[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
-(stop)
+|(stop)|
 
-Chorus:
-(techno time)
+Mellom, full time:
 |[G] . . . |[A] . . . | [Bm] . . . | [D] . . . |
 |[G] . . . |[A] . . . | [Bm] . . . | ,[D] ,. ,. ,. |
 
-|[G] . . . |[A] . . . | [Bm] . . . | [D] . . . |
-|[G] . . . |[A] . . . | [Bm] . . . | ,[D] ,. ,. ,. |
-
-(beat virvel)
-|[G] . . . |[A] . . . | [Bm] . . . | [D] . . . |
-|[G] . . . |[A] . . . | [Bm] . . . | (stop)
-
-(techno time)
-|[G] . . . |[A] . . . | [Bm] . . . | [D] . . . |
-|[G] . . . |[A] . . . | [Bm] . . . | ,[D] ,. ,. ,. |
-
-|[G] . . . |[A] . . . | [Bm] . . . | [D] . . . |
-|[G] . . . |[A] . . . | [Bm] . . . | ,[D] ,. ,. ,. |
-
-(half timeish)
+V2, full time:
+|[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
+|[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
 |[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
 |[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
 
-(mod p[ slutten? Bb)
+Ref, half time, reggae:
+|[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
+|[G] . . . |[A] . . . | [Bm] . . . |[D] . . . |
+|(stop)|
+
+Outro, full time:
+|[G] . . . |[A] . . . | [Bm] . . . | [D] . . . |
