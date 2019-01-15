@@ -1,0 +1,55 @@
+Savner Deg
+Kjærlighet er mer enn forelskelse, Gaute
+Key: C
+Time: 4/4
+Tempo: 70
+
+(svulstig gitarlyd, H9 preset 14)
+
+Intro, piano:
+| C | Em|
+
+Vers, piano:
+| Dm G | C Am |
+| Dm G | Am . |
+| Dm G | C Am |
+| Dm G | Am . |
+
+Pre-chorus, piano, kanskje inn litt:
+| Dm Am | G . |
+| Dm Am | G . |
+
+Chorus, band in:
+| C Dm  | G C (G/B)| 
+| Am Dm | G C |
+| Am Dm | G C |
+| Am Dm | G C |
+
+Brekk, piano:
+| C | Em|
+
+Vers, piano:
+
+Pre-chorus, piano, kanskje inn litt:
+
+Chorus, band in:
+| C Dm  | G C (G/B)| 
+| Am Dm | G C |
+| Am Dm | G C |
+| Am Dm | G C |
+| C .   |
+
+Mellomspill:
+| Em . | Dm .| 
+| G  . | Em .|
+| Dm . | G F | 
+| G  . |
+
+Chorus:
+| C Dm  | G C | 
+| Am Dm | G C |
+| Am Dm | G C |
+| Am Dm | G C |
+(repeat)
+
+(piano ut)

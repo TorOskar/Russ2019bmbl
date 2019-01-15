@@ -1,0 +1,54 @@
+Første kyss
+SOS, ABBA
+Key: Dm
+Time: 4/4
+Tempo: 120
+
+Intro piano:
+
+V piano: 
+
+Chorus:
+(strummy)
+| F C | Gm Bb | F Fsus4 | F Fsus4 |
+| F C | Gm Bb | F Fsus4 | F Fsus4 |
+(distorted)
+| Bb | Db Eb | F (octave riff) |  |
+| Bb | Db Eb | F (octave riff) |  |
+
+V piano: 
+
+Chorus (short):
+(strummy)
+| F C | Gm Bb | F Fsus4 | F Fsus4 |
+| F C | Gm Bb | F Fsus4 | F Fsus4 |
+(distorted)
+| Bb | Db Eb | F (octave riff) | |
+| Bb | Db Eb | F F F E D  (single notes, en takt) |
+
+PIANO break:
+
+Ref:
+Chorus:
+(RIFF) 
+| F C | Gm Bb | F Fsus4 | F Fsus4 |
+| F C | Gm Bb | F Fsus4 | F Fsus4 |
+(distorted)
+| Bb | Db Eb | F (octave riff) |
+| Bb | Db Eb | F (octave riff) |
+ 
+Vamp ... gitar fills:
+(Bbm - F dorian shape at 13th)
+(siste)
+| Bb | Db Eb | F F F E D  (single notes, en takt) |
+
+
+Riff:
+E|---------------------|
+B|---------------------|
+G|---------------------|
+D|-7----7----7---------|
+A|-5----4----5----7----|
+E|---------------------|
+
+
